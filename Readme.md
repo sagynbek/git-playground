@@ -3,7 +3,7 @@
 2) Why we need Git?
 3) Git setup on real project (.gitignore)
 4) General commands (pull/stage/commit/push)
-5) Branches
+5) Stash
 6) History revision
 7) Stash 2
 
